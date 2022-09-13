@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\ihl\vcpkg\installed\x64-windows\include\cpr\body.h(31,24): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ihl\source\repos\ClipboardStealer\ClipboardStealer\main.cpp(15,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ClipboardStealer.vcxproj -> C:\Users\ihl\source\repos\ClipboardStealer\x64\Debug\ClipboardStealer.exe
